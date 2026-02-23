@@ -1,2 +1,2 @@
 # hangman
-hangman game function
+hangman game for python I final project
